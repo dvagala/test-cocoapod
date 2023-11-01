@@ -18,6 +18,6 @@ TODO: Add long description of the pod here.
   
   #  s.static_framework = true
 
-  s.source            = { :http => 'https://github.com/my-org/my-framework-podspecs/releases/download/0.1.0/try_the_colors_lib_poc.framework.zip' }
+  s.source            = { :http => 'https://github.com/dvagala/test-cocoapod/releases/download/0.1.0/try_the_colors_lib_poc.framework.zip' }
   s.ios.vendored_frameworks = 'try_the_colors_lib_poc.framework'
 end
