@@ -1,0 +1,6 @@
+framework module try_the_colors_lib_poc {
+  umbrella header "try_the_colors_lib_poc-umbrella.h"
+
+  export *
+  module * { export * }
+}
